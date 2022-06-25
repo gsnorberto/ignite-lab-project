@@ -1,7 +1,10 @@
+import { MainPage } from "./pages/MainPage";
+
 function App() {
-  return (
-    <h1 className="">Helo World</h1>
-  )
+
+    return (
+        <MainPage />
+    )
 }
 
 export default App;
