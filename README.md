@@ -6,3 +6,4 @@ npm i tailwindcss postcss autoprefixer -D
 npx tailwindcss init -p
 npm i @apollo/client graphql
 npm i phosphor-react
+npm i date-fns
